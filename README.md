@@ -1,1 +1,3 @@
-# simple todo cli app
+# simple todo
+
+CLI Simple Todo App
